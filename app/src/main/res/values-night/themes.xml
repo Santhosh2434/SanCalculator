@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NewCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#28D5EA</item>
+
+        <item name="colorPrimaryVariant">#89CAE8</item>
+    </style>
+    <style name="Theme.NewCalculator" parent="Base.Theme.NewCalculator" />
+</resources>
